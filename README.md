@@ -1,2 +1,3 @@
-# 磨課師FAQ
+
+### 磨課師FAQ
 ![](cover.jpg)
