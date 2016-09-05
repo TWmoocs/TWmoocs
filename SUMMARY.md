@@ -1,6 +1,6 @@
 # Summary
 
-* [摩客施Introduction](README.md)
+* [磨課師FAQ](README.md)
 * [壹、磨課師推動](1.md)
    * [一、遠景目標與策略發展規劃](1-1.md)
    * [二、推動組織與人員](1-2.md)
