@@ -1,2 +1,2 @@
 # 磨課師FAQ
-![](TWmoocs/cover.jpg)
+![](cover.jpg)
